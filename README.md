@@ -23,3 +23,7 @@ Prompts for hotspot presets (Top-Left, Center, Custom) and scales coordinates.
 Generates theme under /usr/share/icons/<theme_name>/ with a default -> left_ptr symlink.
 
 Automatically cleans up temp files in /tmp.
+
+
+## Credits / Acknowledgments
+* Image loading and writing operations are powered by [stb](https://github.com/nothings/stb) libraries by Sean Barrett (Public Domain / MIT).
