@@ -24,6 +24,8 @@ Generates theme under /usr/share/icons/<theme_name>/ with a default -> left_ptr 
 
 Automatically cleans up temp files in /tmp.
 
+![png-to-cursor Demo](demo.gif)
+
 
 ## Credits / Acknowledgments
 * Image loading and writing operations are powered by [stb](https://github.com/nothings/stb) libraries by Sean Barrett (Public Domain / MIT).
